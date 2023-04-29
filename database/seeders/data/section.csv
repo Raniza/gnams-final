@@ -1,0 +1,18 @@
+id,department_id,name
+1,1,Forging & HT Prod. Eng.
+2,1,Machining Prod. Eng.
+3,2,Crank Shaft Prod. Eng.
+4,2,Piston Prod. Eng.
+5,3,Shaft & Gear Prod. Eng.
+6,4,Engineering System
+7,4,New Model Preparation
+8,5,Steel Production Common
+9,5,Forging
+10,5,Machining Before H/T
+11,5,Heat Treatment
+12,5,Machining After H/T
+13,6,Crank Shaft
+14,6,Piston
+15,7,Prod. G&A #3 Gd. #7
+16,7,Prod. G&A #3 Gd. #8
+17,7,Prod. G&A #3 Gd. #9

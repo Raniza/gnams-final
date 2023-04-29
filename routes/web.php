@@ -17,7 +17,7 @@ use App\Http\Controllers\LoginController;
 */
 
 Route::get('/gnams', function () {
-    return view('welcome');
+    return redirect()->route('horensou.request.index');
 })->name('home');
 
 Route::get('gnams/login', function() {
